@@ -1,0 +1,400 @@
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7587     ct1pt-tnode007  0
+[0] MPI startup(): 1       7588     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.43         2.31
+            2         1000         0.44         4.60
+            4         1000         0.43         9.24
+            8         1000         0.44        18.34
+           16         1000         0.43        36.83
+           32         1000         0.47        68.17
+           64         1000         0.47       136.20
+          128         1000         0.57       225.60
+          256         1000         0.62       412.43
+          512         1000         0.79       647.82
+         1024         1000         0.89      1154.68
+         2048         1000         1.05      1945.12
+         4096         1000         1.42      2881.12
+         8192         1000         1.92      4257.77
+        16384         1000         3.28      4988.51
+        32768         1000         5.05      6483.03
+        65536          640         9.27      7068.82
+       131072          320        18.00      7282.72
+       262144          160        34.57      7583.25
+       524288           80        83.70      6263.94
+      1048576           40       170.45      6151.92
+      2097152           20       337.71      6209.92
+      4194304           10       670.45      6255.96
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7621     ct1pt-tnode007  0
+[0] MPI startup(): 1       7622     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.44         2.30
+            2         1000         0.43         4.61
+            4         1000         0.44         9.19
+            8         1000         0.43        18.45
+           16         1000         0.44        36.59
+           32         1000         0.47        68.16
+           64         1000         0.48       134.66
+          128         1000         0.57       224.63
+          256         1000         0.63       407.81
+          512         1000         0.82       626.91
+         1024         1000         0.89      1146.69
+         2048         1000         1.07      1915.26
+         4096         1000         1.47      2783.23
+         8192         1000         2.00      4091.76
+        16384         1000         3.35      4890.66
+        32768         1000         5.16      6345.60
+        65536          640         9.34      7015.80
+       131072          320        17.91      7319.79
+       262144          160        34.32      7639.13
+       524288           80        85.50      6132.36
+      1048576           40       170.00      6168.18
+      2097152           20       337.49      6214.04
+      4194304           10       668.82      6271.19
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7655     ct1pt-tnode007  0
+[0] MPI startup(): 1       7656     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.43         2.31
+            2         1000         0.43         4.61
+            4         1000         0.44         9.09
+            8         1000         0.43        18.39
+           16         1000         0.43        36.93
+           32         1000         0.47        68.05
+           64         1000         0.47       135.55
+          128         1000         0.56       227.82
+          256         1000         0.61       420.89
+          512         1000         0.82       627.79
+         1024         1000         0.89      1156.97
+         2048         1000         1.06      1925.42
+         4096         1000         1.53      2673.49
+         8192         1000         1.96      4189.02
+        16384         1000         3.28      4993.88
+        32768         1000         5.07      6468.94
+        65536          640         9.34      7015.35
+       131072          320        17.88      7331.02
+       262144          160        34.44      7612.35
+       524288           80        83.32      6292.37
+      1048576           40       170.23      6159.60
+      2097152           20       337.41      6215.42
+      4194304           10       669.86      6261.42
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7688     ct1pt-tnode007  0
+[0] MPI startup(): 1       7689     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.43         2.30
+            2         1000         0.43         4.61
+            4         1000         0.44         9.17
+            8         1000         0.43        18.47
+           16         1000         0.43        36.90
+           32         1000         0.47        68.56
+           64         1000         0.47       136.17
+          128         1000         0.56       228.03
+          256         1000         0.63       408.58
+          512         1000         0.83       618.57
+         1024         1000         0.90      1131.91
+         2048         1000         1.08      1889.83
+         4096         1000         1.47      2790.18
+         8192         1000         2.00      4100.82
+        16384         1000         3.30      4967.28
+        32768         1000         5.04      6497.80
+        65536          640         9.19      7128.50
+       131072          320        17.96      7296.61
+       262144          160        34.36      7629.89
+       524288           80        83.42      6284.59
+      1048576           40       170.26      6158.75
+      2097152           20       337.65      6210.99
+      4194304           10       669.72      6262.75
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7722     ct1pt-tnode007  0
+[0] MPI startup(): 1       7723     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.44         2.29
+            2         1000         0.43         4.60
+            4         1000         0.44         9.18
+            8         1000         0.43        18.44
+           16         1000         0.44        36.69
+           32         1000         0.47        68.07
+           64         1000         0.47       136.13
+          128         1000         0.57       223.92
+          256         1000         0.62       412.40
+          512         1000         0.79       645.44
+         1024         1000         0.89      1154.16
+         2048         1000         1.09      1887.30
+         4096         1000         1.44      2839.65
+         8192         1000         1.97      4155.34
+        16384         1000         3.25      5042.03
+        32768         1000         5.11      6413.22
+        65536          640         9.27      7072.14
+       131072          320        17.87      7333.33
+       262144          160        34.44      7611.31
+       524288           80        83.54      6276.17
+      1048576           40       169.97      6169.07
+      2097152           20       338.18      6201.24
+      4194304           10       669.97      6260.48
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7756     ct1pt-tnode007  0
+[0] MPI startup(): 1       7757     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.43         2.31
+            2         1000         0.43         4.62
+            4         1000         0.43         9.22
+            8         1000         0.43        18.55
+           16         1000         0.43        36.81
+           32         1000         0.47        68.10
+           64         1000         0.47       134.98
+          128         1000         0.58       222.06
+          256         1000         0.62       415.53
+          512         1000         0.81       633.65
+         1024         1000         0.88      1169.75
+         2048         1000         1.03      1979.63
+         4096         1000         1.49      2740.87
+         8192         1000         1.95      4208.75
+        16384         1000         3.34      4905.41
+        32768         1000         5.11      6408.24
+        65536          640         9.27      7073.12
+       131072          320        17.91      7319.75
+       262144          160        34.69      7556.22
+       524288           80        83.12      6307.90
+      1048576           40       170.42      6152.81
+      2097152           20       337.37      6216.19
+      4194304           10       669.56      6264.24
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7789     ct1pt-tnode007  0
+[0] MPI startup(): 1       7790     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.43         2.31
+            2         1000         0.43         4.62
+            4         1000         0.43         9.26
+            8         1000         0.43        18.58
+           16         1000         0.43        37.01
+           32         1000         0.47        67.97
+           64         1000         0.47       135.24
+          128         1000         0.57       224.88
+          256         1000         0.62       415.13
+          512         1000         0.81       631.27
+         1024         1000         0.88      1165.11
+         2048         1000         1.07      1906.52
+         4096         1000         1.49      2744.97
+         8192         1000         1.95      4202.95
+        16384         1000         3.23      5075.08
+        32768         1000         5.07      6466.14
+        65536          640         9.18      7138.24
+       131072          320        17.94      7305.72
+       262144          160        34.37      7626.28
+       524288           80        83.43      6284.07
+      1048576           40       170.45      6151.91
+      2097152           20       337.96      6205.40
+      4194304           10       671.40      6247.06
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7823     ct1pt-tnode007  0
+[0] MPI startup(): 1       7824     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.44         2.29
+            2         1000         0.44         4.57
+            4         1000         0.44         9.15
+            8         1000         0.43        18.53
+           16         1000         0.44        36.60
+           32         1000         0.47        67.85
+           64         1000         0.47       136.15
+          128         1000         0.57       226.21
+          256         1000         0.62       415.31
+          512         1000         0.83       619.67
+         1024         1000         0.90      1137.84
+         2048         1000         1.08      1900.26
+         4096         1000         1.47      2787.18
+         8192         1000         1.98      4138.47
+        16384         1000         3.22      5087.11
+        32768         1000         5.06      6469.72
+        65536          640         9.22      7108.24
+       131072          320        17.93      7312.20
+       262144          160        34.63      7570.08
+       524288           80        83.53      6276.99
+      1048576           40       170.45      6151.79
+      2097152           20       337.97      6205.09
+      4194304           10       670.23      6258.05
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7857     ct1pt-tnode007  0
+[0] MPI startup(): 1       7858     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.42         0.00
+            1         1000         0.43         2.31
+            2         1000         0.43         4.61
+            4         1000         0.43         9.24
+            8         1000         0.43        18.47
+           16         1000         0.43        36.97
+           32         1000         0.47        67.76
+           64         1000         0.48       133.40
+          128         1000         0.57       225.77
+          256         1000         0.62       414.48
+          512         1000         0.80       641.57
+         1024         1000         0.89      1150.79
+         2048         1000         1.05      1949.32
+         4096         1000         1.50      2731.17
+         8192         1000         1.98      4137.86
+        16384         1000         3.32      4937.52
+        32768         1000         5.11      6411.99
+        65536          640         9.47      6923.49
+       131072          320        17.88      7330.29
+       262144          160        34.32      7639.34
+       524288           80        83.67      6266.07
+      1048576           40       169.95      6169.75
+      2097152           20       337.47      6214.24
+      4194304           10       669.77      6262.26
+[0] MPI startup(): Intel(R) MPI Library, Version 2019 Update 9  Build 20200923 (id: abd58e492)
+[0] MPI startup(): Copyright (C) 2003-2020 Intel Corporation.  All rights reserved.
+[0] MPI startup(): library kind: release
+[0] MPI startup(): libfabric version: 1.10.1-impi
+[0] MPI startup(): libfabric provider: mlx
+[0] MPI startup(): Rank    Pid      Node name       Pin cpu
+[0] MPI startup(): 0       7890     ct1pt-tnode007  0
+[0] MPI startup(): 1       7891     ct1pt-tnode007  1
+[0] MPI startup(): I_MPI_ROOT=/opt/area/shared/programs/x86_64/intel/parallel_studio_xe_2020_update4_cluster_edition//compilers_and_libraries_2020.4.304/linux/mpi
+[0] MPI startup(): I_MPI_MPIRUN=mpirun
+[0] MPI startup(): I_MPI_HYDRA_RMK=pbs
+[0] MPI startup(): I_MPI_HYDRA_TOPOLIB=hwloc
+[0] MPI startup(): I_MPI_PIN_PROCESSOR_LIST=0,1
+[0] MPI startup(): I_MPI_INTERNAL_MEM_POLICY=default
+[0] MPI startup(): I_MPI_DEBUG=5
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000         0.43         0.00
+            1         1000         0.43         2.31
+            2         1000         0.43         4.64
+            4         1000         0.43         9.22
+            8         1000         0.44        18.38
+           16         1000         0.43        37.00
+           32         1000         0.47        67.55
+           64         1000         0.47       135.28
+          128         1000         0.58       219.70
+          256         1000         0.62       416.03
+          512         1000         0.81       629.41
+         1024         1000         0.89      1145.43
+         2048         1000         1.05      1944.87
+         4096         1000         1.52      2698.54
+         8192         1000         2.05      3990.93
+        16384         1000         3.42      4785.09
+        32768         1000         5.15      6363.50
+        65536          640         9.20      7123.33
+       131072          320        18.02      7274.47
+       262144          160        34.53      7591.12
+       524288           80        83.40      6286.37
+      1048576           40       170.09      6164.85
+      2097152           20       336.90      6224.85
+      4194304           10       669.32      6266.55
