@@ -1,0 +1,21 @@
+Nnodes,N,Nx,Ny,Nz,k,C(L.N),Tc(L.N),Latency,Bandwidth,Tmeasured(s),L,P(L. N),P(1)N/P(L.N),THIN/GPU,Details,,Command
+1,1,1,1,1,0,,,,,15.05,1.2,,,T,serial execution,,mpirun --mca btl ^openib -np 1 ./jacoby3D.x <input.1200
+1,1,1,1,1,0,,,,,21.73,1.2,,,G,serial execution,,mpirun --mca btl ^openib -np 1 ./jacoby3D.x <input.1200
+1,4,2,2,1,4,46.08,2.52448132780083,0.2,21.69,3.76,1.2,0.393297524466113,153.064782397802,T,map by core,,mpirun --mca btl ^openib -np 4 --map-by core ./jacoby3D.x <input.1200
+1,4,2,2,1,4,46.08,2.95729128014842,0.41,21.56,3.76,1.2,0.383844515672378,156.834336670274,T,map by socket,,mpirun --mca btl ^openib -np 4 --map-by socket ./jacoby3D.x <input.1200
+1,4,4,1,1,2,23.04,1.26224066390042,0.2,21.69,3.78,1.2,0.423730874403816,142.071309022975,T,map by core,,mpirun --mca btl ^openib -np 4 --map-by core ./jacoby3D.x <input.1200
+1,4,4,1,1,2,23.04,1.47864564007421,0.41,21.56,3.76,1.2,0.418183083509374,143.956086159211,T,map by socket,,mpirun --mca btl ^openib -np 4 --map-by socket ./jacoby3D.x <input.1200
+1,8,2,2,2,6,69.12,3.78672199170125,0.2,21.69,1.89,1.2,0.733885651977575,164.05825577263,T,map by core,,mpirun --mca btl ^openib -np 8 –map-by core ./jacoby3D.x <input.1200
+1,8,2,2,2,6,69.12,4.43593692022264,0.41,21.56,1.88,1.2,0.709434709585525,169.712587181337,T,map by socket,,mpirun --mca btl ^openib -np 8 --map-by socket ./jacoby3D.x <input.1200
+1,8,4,2,1,4,46.08,2.52448132780083,0.2,21.69,1.89,1.2,0.786595048932227,153.064782397802,T,map by core,,mpirun --mca btl ^openib -np 8 –map-by core ./jacoby3D.x <input.1200
+1,8,4,2,1,4,46.08,2.95729128014842,0.41,21.56,1.88,1.2,0.767689031344755,156.834336670274,T,map by socket,,mpirun --mca btl ^openib -np 8 --map-by socket ./jacoby3D.x <input.1200
+1,12,3,4,1,4,46.08,2.52448132780083,0.2,21.69,1.26,1.2,1.17989257339834,153.064782397802,T,map by core,,mpirun --mca btl ^openib -np 12 --map-by core ./jacoby3D.x <input.1200
+1,12,3,4,1,4,46.08,2.95729128014842,0.41,21.56,1.26,1.2,1.15153354701713,156.834336670274,T,map by socket,,mpirun --mca btl ^openib -np 12 --map-by socket ./jacoby3D.x <input.1200
+1,12,3,2,2,6,69.12,3.78672199170125,0.2,21.69,1.27,1.2,1.10082847796636,164.05825577263,T,map by core,,mpirun --mca btl ^openib -np 12 --map-by core ./jacoby3D.x <input.1200
+1,12,3,2,2,6,69.12,4.43593692022264,0.41,21.56,1.26,1.2,1.06415206437829,169.712587181337,T,map by socket,,mpirun --mca btl ^openib -np 12 --map-by socket ./jacoby3D.x <input.1200
+2,12,3,2,2,6,69.12,8.79799325463744,0.99,11.86,1.26,1.2,0.869507122825427,207.703876436512,T,map by node,,mpirun --mca btl ^openib -np 12 --map-by node ./jacoby3D.x <input.1200
+2,24,4,3,2,6,69.12,8.79799325463744,0.99,11.86,0.63,1.2,1.73901424565085,207.703876436512,T,map by node,,mpirun --mca btl ^openib -np 24 --map-by node ./jacoby3D.x <input.1200
+2,48,4,4,3,6,69.12,8.79799325463744,0.99,11.86,0.32,1.2,3.47802849130171,207.703876436512,T,map by node,,mpirun --mca btl ^openib -np 48 –map-by node ./jacoby3D.x <input.1200
+1,12,3,2,2,6,69.12,5208,0.2,15,1.84,1.2,0.769767614522236,338.751585648148,G,hyperthreading,,mpirun --mca btl ^openib -np 12 ./jacoby3D.x <input.1200
+1,24,4,3,2,6,69.12,5208,0.2,15,0.97,1.2,1.53953522904447,338.751585648148,G,hyperthreading,,mpirun --mca btl ^openib -np 24 ./jacoby3D.x <input.1200
+1,48,4,4,3,6,69.12,5208,0.2,15,0.65,1.2,3.07907045808894,338.751585648148,G,hyperthreading,,mpirun --mca btl ^openib -np 48 ./jacoby3D.x <input.1200
